@@ -8,12 +8,14 @@
     <title>Document</title>
 </head>
 <body>
+    <center>
     <form action="login.php" method="post"> 
-        <label for="idpengguna">ID Pengguna</label> 
-        <input type="text" name="idpengguna" id="idpengguna"> 
-        <label for="katalaluan">Kata Laluan</label> 
-        <input type="password" name="katalaluan" id="katalaluan"> 
+        <label for="idpengguna">ID Pengguna</label><br> 
+        <input type="text" name="idpengguna" id="idpengguna"><br>
+        <label for="katalaluan">Kata Laluan</label><br>
+        <input type="password" name="katalaluan" id="katalaluan"><br>
         <button type="submit">MASUK</button> 
     </form> 
+    </center>
 </body>
 </html>
