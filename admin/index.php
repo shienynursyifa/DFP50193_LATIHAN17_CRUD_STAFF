@@ -8,5 +8,7 @@
 </head>
 <body>
     admin
+    <p><a href="../logout.php">LOGOUT</a></p>
+    
 </body>
 </html>
